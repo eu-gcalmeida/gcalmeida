@@ -12,7 +12,7 @@ Cada grupo deve analisar um processo físico (sinal + background) usando diferen
   2. Conversão para `pandas.DataFrame` e análise via filtros e gráficos
   3. Leitura manual/parsing com Python puro (`open`, `split`, etc.)
 
-- Ao final, o grupo deve consolidar a análise em um notebook final (`analise_parte1.ipynb`), escolhendo as melhores abordagens e discutindo diferenças entre elas.
+- Ao final, o grupo deve consolidar a análise em um notebook separado para cada forma de leitura (`analise_parte1_*.ipynb`).
 
 ## Entregas
 
@@ -26,8 +26,6 @@ Haverão 2 entregas:
 ## Instruções
 
 - Os dados (arquivos `.lhe`) estão no diretório `data/`.
-- Os notebooks devem estar na pasta `notebooks/`.
-- Os gráficos e imagens devem estar em `resultados/graficos/`.
 - Cada célula deve ter claramente o código explicando o que foi feito.
 
 ## Avaliação
@@ -38,5 +36,3 @@ O projeto será avaliado com base em:
 - Compreensão dos conceitos físicos envolvidos
 - Profundidade da análise (cortes, variáveis, justificativas)
 - Comparação entre abordagens
-- Participação equitativa dos membros do grupo
-
